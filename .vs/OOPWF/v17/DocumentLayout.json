@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\OOPWF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16F86D96-909F-4568-9C70-E494BA7082AF}|OOPWF\\OOPWF.csproj|d:\\b\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\oopwf\\oopwf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F86D96-909F-4568-9C70-E494BA7082AF}|OOPWF\\OOPWF.csproj|solutionrelative:oopwf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F86D96-909F-4568-9C70-E494BA7082AF}|OOPWF\\OOPWF.csproj|D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\OOPWF\\oopwf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16F86D96-909F-4568-9C70-E494BA7082AF}|OOPWF\\OOPWF.csproj|solutionrelative:oopwf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F86D96-909F-4568-9C70-E494BA7082AF}|OOPWF\\OOPWF.csproj|D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\OOPWF\\oopwf\\employeeiinproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F86D96-909F-4568-9C70-E494BA7082AF}|OOPWF\\OOPWF.csproj|solutionrelative:oopwf\\employeeiinproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F86D96-909F-4568-9C70-E494BA7082AF}|OOPWF\\OOPWF.csproj|D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\OOPWF\\oopwf\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F86D96-909F-4568-9C70-E494BA7082AF}|OOPWF\\OOPWF.csproj|solutionrelative:oopwf\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F86D96-909F-4568-9C70-E494BA7082AF}|OOPWF\\OOPWF.csproj|D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\OOPWF\\oopwf\\listemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F86D96-909F-4568-9C70-E494BA7082AF}|OOPWF\\OOPWF.csproj|solutionrelative:oopwf\\listemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F86D96-909F-4568-9C70-E494BA7082AF}|OOPWF\\OOPWF.csproj|D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\OOPWF\\oopwf\\salarymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F86D96-909F-4568-9C70-E494BA7082AF}|OOPWF\\OOPWF.csproj|solutionrelative:oopwf\\salarymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F86D96-909F-4568-9C70-E494BA7082AF}|OOPWF\\OOPWF.csproj|D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\OOPWF\\oopwf\\salaryemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F86D96-909F-4568-9C70-E494BA7082AF}|OOPWF\\OOPWF.csproj|solutionrelative:oopwf\\salaryemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F86D96-909F-4568-9C70-E494BA7082AF}|OOPWF\\OOPWF.csproj|D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\OOPWF\\oopwf\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F86D96-909F-4568-9C70-E494BA7082AF}|OOPWF\\OOPWF.csproj|solutionrelative:oopwf\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F86D96-909F-4568-9C70-E494BA7082AF}|OOPWF\\OOPWF.csproj|D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\OOPWF\\oopwf\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F86D96-909F-4568-9C70-E494BA7082AF}|OOPWF\\OOPWF.csproj|solutionrelative:oopwf\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F86D96-909F-4568-9C70-E494BA7082AF}|OOPWF\\OOPWF.csproj|D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\OOPWF\\oopwf\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F86D96-909F-4568-9C70-E494BA7082AF}|OOPWF\\OOPWF.csproj|solutionrelative:oopwf\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F86D96-909F-4568-9C70-E494BA7082AF}|OOPWF\\OOPWF.csproj|D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\OOPWF\\oopwf\\salarybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F86D96-909F-4568-9C70-E494BA7082AF}|OOPWF\\OOPWF.csproj|solutionrelative:oopwf\\salarybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F86D96-909F-4568-9C70-E494BA7082AF}|OOPWF\\OOPWF.csproj|D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\OOPWF\\oopwf\\employeebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F86D96-909F-4568-9C70-E494BA7082AF}|OOPWF\\OOPWF.csproj|solutionrelative:oopwf\\employeebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F86D96-909F-4568-9C70-E494BA7082AF}|OOPWF\\OOPWF.csproj|D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\OOPWF\\oopwf\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F86D96-909F-4568-9C70-E494BA7082AF}|OOPWF\\OOPWF.csproj|solutionrelative:oopwf\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F86D96-909F-4568-9C70-E494BA7082AF}|OOPWF\\OOPWF.csproj|D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\OOPWF\\oopwf\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F86D96-909F-4568-9C70-E494BA7082AF}|OOPWF\\OOPWF.csproj|solutionrelative:oopwf\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F86D96-909F-4568-9C70-E494BA7082AF}|OOPWF\\OOPWF.csproj|D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\OOPWF\\oopwf\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F86D96-909F-4568-9C70-E494BA7082AF}|OOPWF\\OOPWF.csproj|solutionrelative:oopwf\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\OOPWF\\OOPWF\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "OOPWF\\Form1.Designer.cs",
+              "ToolTip": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\OOPWF\\OOPWF\\Form1.Designer.cs",
+              "RelativeToolTip": "OOPWF\\Form1.Designer.cs",
+              "ViewState": "AQIAAF4DAAAAAAAAAAAvwHEDAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T18:23:28.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IENTITY.cs",
+              "DocumentMoniker": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\OOPWF\\OOPWF\\IENTITY.cs",
+              "RelativeDocumentMoniker": "OOPWF\\IENTITY.cs",
+              "ToolTip": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\OOPWF\\OOPWF\\IENTITY.cs",
+              "RelativeToolTip": "OOPWF\\IENTITY.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T13:29:37.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TASK.cs",
+              "DocumentMoniker": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\OOPWF\\OOPWF\\TASK.cs",
+              "RelativeDocumentMoniker": "OOPWF\\TASK.cs",
+              "ToolTip": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\OOPWF\\OOPWF\\TASK.cs",
+              "RelativeToolTip": "OOPWF\\TASK.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T08:42:44.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EMPLOYEEBASE.cs",
+              "DocumentMoniker": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\OOPWF\\OOPWF\\EMPLOYEEBASE.cs",
+              "RelativeDocumentMoniker": "OOPWF\\EMPLOYEEBASE.cs",
+              "ToolTip": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\OOPWF\\OOPWF\\EMPLOYEEBASE.cs",
+              "RelativeToolTip": "OOPWF\\EMPLOYEEBASE.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwDoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T13:37:43.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EMPLOYEE.cs",
+              "DocumentMoniker": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\OOPWF\\OOPWF\\EMPLOYEE.cs",
+              "RelativeDocumentMoniker": "OOPWF\\EMPLOYEE.cs",
+              "ToolTip": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\OOPWF\\OOPWF\\EMPLOYEE.cs",
+              "RelativeToolTip": "OOPWF\\EMPLOYEE.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T13:28:52.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MANAGER.cs",
+              "DocumentMoniker": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\OOPWF\\OOPWF\\MANAGER.cs",
+              "RelativeDocumentMoniker": "OOPWF\\MANAGER.cs",
+              "ToolTip": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\OOPWF\\OOPWF\\MANAGER.cs",
+              "RelativeToolTip": "OOPWF\\MANAGER.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T13:29:13.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LISTEMPLOYEE.cs",
+              "DocumentMoniker": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\OOPWF\\OOPWF\\LISTEMPLOYEE.cs",
+              "RelativeDocumentMoniker": "OOPWF\\LISTEMPLOYEE.cs",
+              "ToolTip": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\OOPWF\\OOPWF\\LISTEMPLOYEE.cs",
+              "RelativeToolTip": "OOPWF\\LISTEMPLOYEE.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T13:30:04.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DEPARTMENT.cs",
+              "DocumentMoniker": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\OOPWF\\OOPWF\\DEPARTMENT.cs",
+              "RelativeDocumentMoniker": "OOPWF\\DEPARTMENT.cs",
+              "ToolTip": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\OOPWF\\OOPWF\\DEPARTMENT.cs",
+              "RelativeToolTip": "OOPWF\\DEPARTMENT.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T18:44:32.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EMPLOYEEIINPROJECT.cs",
+              "DocumentMoniker": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\OOPWF\\OOPWF\\EMPLOYEEIINPROJECT.cs",
+              "RelativeDocumentMoniker": "OOPWF\\EMPLOYEEIINPROJECT.cs",
+              "ToolTip": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\OOPWF\\OOPWF\\EMPLOYEEIINPROJECT.cs",
+              "RelativeToolTip": "OOPWF\\EMPLOYEEIINPROJECT.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T02:01:02.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PROJECT.cs",
+              "DocumentMoniker": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\OOPWF\\OOPWF\\PROJECT.cs",
+              "RelativeDocumentMoniker": "OOPWF\\PROJECT.cs",
+              "ToolTip": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\OOPWF\\OOPWF\\PROJECT.cs",
+              "RelativeToolTip": "OOPWF\\PROJECT.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T08:32:36.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SALARYBASE.cs",
+              "DocumentMoniker": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\OOPWF\\OOPWF\\SALARYBASE.cs",
+              "RelativeDocumentMoniker": "OOPWF\\SALARYBASE.cs",
+              "ToolTip": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\OOPWF\\OOPWF\\SALARYBASE.cs",
+              "RelativeToolTip": "OOPWF\\SALARYBASE.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T15:37:30.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SALARYEMPLOYEE.cs",
+              "DocumentMoniker": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\OOPWF\\OOPWF\\SALARYEMPLOYEE.cs",
+              "RelativeDocumentMoniker": "OOPWF\\SALARYEMPLOYEE.cs",
+              "ToolTip": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\OOPWF\\OOPWF\\SALARYEMPLOYEE.cs",
+              "RelativeToolTip": "OOPWF\\SALARYEMPLOYEE.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T15:26:36.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SALARYMANAGER.cs",
+              "DocumentMoniker": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\OOPWF\\OOPWF\\SALARYMANAGER.cs",
+              "RelativeDocumentMoniker": "OOPWF\\SALARYMANAGER.cs",
+              "ToolTip": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\OOPWF\\OOPWF\\SALARYMANAGER.cs",
+              "RelativeToolTip": "OOPWF\\SALARYMANAGER.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T15:26:24.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\OOPWF\\OOPWF\\Form1.cs",
+              "RelativeDocumentMoniker": "OOPWF\\Form1.cs",
+              "ToolTip": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\OOPWF\\OOPWF\\Form1.cs",
+              "RelativeToolTip": "OOPWF\\Form1.cs",
+              "ViewState": "AQIAAAIGAAAAAAAAAAAAAAEGAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T02:25:38.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\OOPWF\\OOPWF\\Form1.cs",
+              "RelativeDocumentMoniker": "OOPWF\\Form1.cs",
+              "ToolTip": "D:\\B\u00E0i t\u1EADp \u0111\u1EC3 n\u1ED9p\\OOPWF\\OOPWF\\Form1.cs [Design]",
+              "RelativeToolTip": "OOPWF\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T02:19:45.057Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
